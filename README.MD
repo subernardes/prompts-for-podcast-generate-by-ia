@@ -1,9 +1,4 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+
 
 <p align="center">
 <a href="https://dio.me/">
